@@ -1,6 +1,18 @@
 # MOBILE-APP-REDESIGN
 
-For my redesign project, I chose Instagram, one of the most widely used mobile apps for sharing photos, videos, and connecting with people. I focused on improving its UI/UX to address a specific pain point that many users face—there is no easy way to find past interactions beyond just likes, comments, and tags. For example, if a user accidentally skips or forgets to save an informative or interesting post, there’s no quick way to go back and find it unless they remember the exact profile or keyword. This can be frustrating, especially when the content was useful or important.
+**COMPANY NAME :** CODTECH IT SOLUTIONS
+
+**NAME :** SAJINI S
+
+**INTERN ID :** CT04DM349
+
+**DOMAIN :** UI UX
+
+**DURATION :** 4 WEEKS
+
+**MENTOR :** NEELA SANTHOSH
+
+  For my redesign project, I chose Instagram, one of the most widely used mobile apps for sharing photos, videos, and connecting with people. I focused on improving its UI/UX to address a specific pain point that many users face—there is no easy way to find past interactions beyond just likes, comments, and tags. For example, if a user accidentally skips or forgets to save an informative or interesting post, there’s no quick way to go back and find it unless they remember the exact profile or keyword. This can be frustrating, especially when the content was useful or important.
 
 To solve this problem, I redesigned the Instagram interface by adding a new “History” feature under the “Your Activity” section. In real Instagram, this section already includes Likes, Comments, and Tags, but I added “History” to give users a clearer and complete view of everything they’ve interacted with. This includes all the posts they’ve seen or engaged with, not just the ones they liked or commented on.
 
@@ -22,3 +34,7 @@ The design adds a smart and simple improvement to Instagram’s usability. It do
 ![Image](https://github.com/user-attachments/assets/153ce08f-a1e6-4838-9a93-1252b9984eca)
 
 ![Image](https://github.com/user-attachments/assets/c963d36d-8656-4a55-9a54-47fba9600b92)
+
+**PROJECT LINK :**
+
+https://www.figma.com/proto/C6SjBYiZHRgr7Nxq0CzUph/Redesigned-Instagram?node-id=0-1&t=aaxwQiwPR126sCz2-1
