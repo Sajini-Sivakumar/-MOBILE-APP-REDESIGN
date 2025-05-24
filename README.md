@@ -13,3 +13,12 @@ I also kept the interface very clean and organized. Each history item is shown w
 The design adds a smart and simple improvement to Instagram’s usability. It doesn’t change the main layout of the app, so current users can adjust quickly. But it fills a clear gap in the platform by giving users more control and access to their past activity. It also keeps Instagram more engaging, as people can go back and re-explore things they found useful or interesting.
 
 **OUTPUT**
+![Image](https://github.com/user-attachments/assets/ca83c09c-f42a-4e88-988d-68
+
+![Image](https://github.com/user-attachments/assets/a8c3ba9b-3cfe-447f-8cde-2118cbdf6d0e)
+
+![Image](https://github.com/user-attachments/assets/0702a33f-0fe6-4184-9069-509266b0b09e)
+
+![Image](https://github.com/user-attachments/assets/153ce08f-a1e6-4838-9a93-1252b9984eca)
+
+![Image](https://github.com/user-attachments/assets/c963d36d-8656-4a55-9a54-47fba9600b92)
